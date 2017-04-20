@@ -499,7 +499,7 @@ int ff_mediacodec_dec_init(AVCodecContext *avctx, MediaCodecDecContext *s,
     if (status < 0) {
         char *desc = ff_AMediaFormat_toString(format);
         av_log(avctx, AV_LOG_ERROR,
-            "Failed to configure codec (status = %d) with format %s\n",
+            "Failed to configure.sh codec (status = %d) with format %s\n",
             status, desc);
         av_freep(&desc);
 
@@ -522,7 +522,7 @@ int ff_mediacodec_dec_init(AVCodecContext *avctx, MediaCodecDecContext *s,
     if (s->format) {
         if ((ret = mediacodec_dec_parse_format(avctx, s)) < 0) {
             av_log(avctx, AV_LOG_ERROR,
-                "Failed to configure context\n");
+                "Failed to configure.sh context\n");
             goto fail;
         }
     }

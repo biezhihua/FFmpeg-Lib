@@ -29,13 +29,13 @@
 
 #include "version.h"
 
-#include "libavutil/avassert.h"
-#include "libavutil/avutil.h"
-#include "libavutil/common.h"
-#include "libavutil/intreadwrite.h"
-#include "libavutil/log.h"
-#include "libavutil/pixfmt.h"
-#include "libavutil/pixdesc.h"
+#include "../libavutil/avassert.h"
+#include "../libavutil/avutil.h"
+#include "../libavutil/common.h"
+#include "../libavutil/intreadwrite.h"
+#include "../libavutil/log.h"
+#include "../libavutil/pixfmt.h"
+#include "../libavutil/pixdesc.h"
 
 #define STR(s) AV_TOSTRING(s) // AV_STRINGIFY is too long
 

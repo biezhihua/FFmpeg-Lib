@@ -16,7 +16,7 @@
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
  */
 
-#include "config.h"
+#include "../config.h"
 
 #include "../libavutil/avstring.h"
 #include "../libavutil/mem.h"
@@ -71,7 +71,7 @@ extern const URLProtocol ff_librtmpte_protocol;
 extern const URLProtocol ff_libssh_protocol;
 extern const URLProtocol ff_libsmbclient_protocol;
 
-#include "libavformat/protocol_list.c"
+#include "../libavformat/protocol_list.c"
 
 const AVClass *ff_urlcontext_child_class_next(const AVClass *prev)
 {

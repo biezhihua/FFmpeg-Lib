@@ -244,6 +244,7 @@ enum AVOptionType{
  * AVOption
  */
 typedef struct AVOption {
+
     const char *name;
 
     /**
@@ -257,6 +258,7 @@ typedef struct AVOption {
      * value is stored. It should be 0 for named constants.
      */
     int offset;
+
     enum AVOptionType type;
 
     /**

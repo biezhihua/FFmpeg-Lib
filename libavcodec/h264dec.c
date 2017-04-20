@@ -54,6 +54,7 @@
 #include "rectangle.h"
 #include "thread.h"
 #include "vdpau_compat.h"
+#include "../libavutil/internal.h"
 
 static int h264_decode_end(AVCodecContext *avctx);
 

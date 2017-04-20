@@ -34,6 +34,8 @@
 #include "libavutil/opt.h"
 #include "libavcodec/put_bits.h"
 #include "libavcodec/aacenctab.h"
+#include "../libavutil/internal.h"
+#include "../config.h"
 
 
 static const AVCodecTag flv_video_codec_ids[] = {

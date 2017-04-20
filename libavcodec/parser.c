@@ -41,7 +41,7 @@ AVCodecParser *av_parser_next(const AVCodecParser *p)
         return av_first_parser;
 }
 
-void av_register_codec_parser(AVCodecParser *parser)
+void nav_register_codec_parser(AVCodecParser *parser)
 {
     do {
         parser->next = av_first_parser;

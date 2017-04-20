@@ -29,10 +29,10 @@
  * @example demuxing_decoding.c
  */
 
-#include <libavutil/imgutils.h>
-#include <libavutil/samplefmt.h>
-#include <libavutil/timestamp.h>
-#include <libavformat/avformat.h>
+#include <../../libavutil/imgutils.h>
+#include <../../libavutil/samplefmt.h>
+#include <../../libavutil/timestamp.h>
+#include <../../libavformat/avformat.h>
 
 static AVFormatContext *fmt_ctx = NULL;
 static AVCodecContext *video_dec_ctx = NULL, *audio_dec_ctx;

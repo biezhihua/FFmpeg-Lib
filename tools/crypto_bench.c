@@ -27,11 +27,11 @@
 #include <stdlib.h>
 #include <math.h>
 
-#include "libavutil/avutil.h"
-#include "libavutil/avstring.h"
-#include "libavutil/crc.h"
-#include "libavutil/intreadwrite.h"
-#include "libavutil/timer.h"
+#include "../libavutil/avutil.h"
+#include "../libavutil/avstring.h"
+#include "../libavutil/crc.h"
+#include "../libavutil/intreadwrite.h"
+#include "../libavutil/timer.h"
 
 #ifndef AV_READ_TIME
 #define AV_READ_TIME(x) 0
@@ -41,7 +41,7 @@
 #include <unistd.h> /* for getopt */
 #endif
 #if !HAVE_GETOPT
-#include "compat/getopt.c"
+#include "../compat/getopt.c"
 #endif
 
 #define MAX_INPUT_SIZE 1048576

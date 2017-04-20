@@ -50,8 +50,8 @@ struct dv1394_data {
 
 /*
  * The trick here is to kludge around well known problem with kernel Ooopsing
- * when you try to capture PAL on a device node configure for NTSC. That's
- * why we have to configure the device node for PAL, and then read only NTSC
+ * when you try to capture PAL on a device node configure.sh for NTSC. That's
+ * why we have to configure.sh the device node for PAL, and then read only NTSC
  * amount of data.
  */
 static int dv1394_reset(struct dv1394_data *dv)

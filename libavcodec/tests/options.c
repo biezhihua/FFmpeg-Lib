@@ -19,7 +19,7 @@
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
  */
 
-#include "libavcodec/options.c"
+#include "../../libavcodec/options.c"
 
 static int dummy_init(AVCodecContext *ctx)
 {

@@ -25,6 +25,7 @@
 #include "imgutils.h"
 #include "mem.h"
 #include "samplefmt.h"
+#include "internal.h"
 
 
 static AVFrameSideData *frame_new_side_data(AVFrame *frame,

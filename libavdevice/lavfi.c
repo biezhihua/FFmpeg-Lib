@@ -299,7 +299,7 @@ av_cold static int lavfi_read_header(AVFormatContext *avctx)
             goto end;
     }
 
-    /* configure the graph */
+    /* configure.sh the graph */
     if ((ret = avfilter_graph_config(lavfi->graph, avctx)) < 0)
         goto end;
 

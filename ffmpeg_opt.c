@@ -3236,7 +3236,7 @@ int ffmpeg_parse_options(int argc, char **argv)
         goto fail;
     }
 
-    /* configure terminal and setup signal handlers */
+    /* configure.sh terminal and setup signal handlers */
     term_init();
 
     /* open input files */

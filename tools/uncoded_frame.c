@@ -124,7 +124,7 @@ int main(int argc, char **argv)
     }
     av_assert0(st - streams == nb_streams);
     if ((ret = avfilter_graph_config(in_graph, NULL)) < 0) {
-        av_log(NULL, AV_LOG_ERROR, "Failed to configure graph\n");
+        av_log(NULL, AV_LOG_ERROR, "Failed to configure.sh graph\n");
         goto fail;
     }
 

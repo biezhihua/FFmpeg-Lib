@@ -29,9 +29,9 @@
 
 #include <stdint.h>
 
-#include "libavutil/avutil.h"
-#include "libavutil/log.h"
-#include "libavutil/pixfmt.h"
+#include "../libavutil/avutil.h"
+#include "../libavutil/log.h"
+#include "../libavutil/pixfmt.h"
 #include "version.h"
 
 /**
@@ -215,7 +215,7 @@ struct SwsContext *sws_getContext(int srcW, int srcH, enum AVPixelFormat srcForm
  * @return          the height of the output slice
  */
 int sws_scale(struct SwsContext *c, const uint8_t *const srcSlice[],
-              const int srcStride[], int srcSliceY, int srcSliceH,
+              const int srcStrideSwsContext[], int srcSliceY, int srcSliceH,
               uint8_t *const dst[], const int dstStride[]);
 
 /**

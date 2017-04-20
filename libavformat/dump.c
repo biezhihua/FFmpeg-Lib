@@ -35,6 +35,7 @@
 #include "libavutil/stereo3d.h"
 
 #include "avformat.h"
+#include "../libavutil/spherical.h"
 
 #define HEXDUMP_PRINT(...)                                                    \
     do {                                                                      \

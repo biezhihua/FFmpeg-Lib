@@ -25,7 +25,7 @@
  * utils.
  */
 
-#include "config.h"
+#include "../config.h"
 #include "../libavutil/atomic.h"
 #include "../libavutil/attributes.h"
 #include "../libavutil/avassert.h"
@@ -59,9 +59,12 @@
 #include <float.h>
 #if CONFIG_ICONV
 # include <iconv.h>
+#include <libavutil/ffversion.h>
+
 #endif
 
 #include "../libavutil/ffversion.h"
+
 const char av_codec_ffversion[] = "FFmpeg version " FFMPEG_VERSION;
 
 #if HAVE_PTHREADS || HAVE_W32THREADS || HAVE_OS2THREADS
@@ -1455,7 +1458,7 @@ FF_ENABLE_DEPRECATION_WARNINGS
         }
 
         if (avctx->codec->sample_fmts) {
-            for (i = 0; avctx->codec->sample_fmts[i] != AV_SAMPLE_FMT_NONE; i++) {
+            for (i = 0; avctx->codec->[i] != AV_SAMPLE_FMT_NONE; i++) {
                 if (avctx->sample_fmt == avctx->codec->sample_fmts[i])
                     break;
                 if (avctx->channels == 1 &&

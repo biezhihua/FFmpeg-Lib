@@ -25,7 +25,7 @@
  */
 
 #include "config.h"
-#include "libavutil/thread.h"
+#include "../libavutil/thread.h"
 #include "avcodec.h"
 #include "version.h"
 

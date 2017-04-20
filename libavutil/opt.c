@@ -451,8 +451,10 @@ int av_opt_set(void *obj, const char *name, const char *val, int search_flags)
     int ret = 0;
     void *dst, *target_obj;
     const AVOption *o = av_opt_find2(obj, name, NULL, 0, search_flags, &target_obj);
+
     if (!o || !target_obj)
         return AVERROR_OPTION_NOT_FOUND;
+
     if (!val && (o->type != AV_OPT_TYPE_STRING &&
                  o->type != AV_OPT_TYPE_PIXEL_FMT && o->type != AV_OPT_TYPE_SAMPLE_FMT &&
                  o->type != AV_OPT_TYPE_IMAGE_SIZE && o->type != AV_OPT_TYPE_VIDEO_RATE &&
@@ -464,6 +466,7 @@ int av_opt_set(void *obj, const char *name, const char *val, int search_flags)
         return AVERROR(EINVAL);
 
     dst = ((uint8_t *)target_obj) + o->offset;
+
     switch (o->type) {
     case AV_OPT_TYPE_BOOL:
         return set_string_bool(obj, o, val, dst);

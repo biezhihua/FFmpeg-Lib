@@ -3218,7 +3218,7 @@ typedef struct AVCodecContext {
      int nsse_weight;
 
     /**
-     * profile
+     * AVCodec
      * - encoding: Set by user.
      * - decoding: Set by libavcodec.
      */

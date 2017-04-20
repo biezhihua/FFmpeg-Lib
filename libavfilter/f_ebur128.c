@@ -272,19 +272,19 @@ static int config_video_output(AVFilterLink *outlink)
 
 #define PAD 8
 
-    /* configure text area position and size */
+    /* configure.sh text area position and size */
     ebur128->text.x  = PAD;
     ebur128->text.y  = 40;
     ebur128->text.w  = 3 * 8;   // 3 characters
     ebur128->text.h  = ebur128->h - PAD - ebur128->text.y;
 
-    /* configure gauge position and size */
+    /* configure.sh gauge position and size */
     ebur128->gauge.w = 20;
     ebur128->gauge.h = ebur128->text.h;
     ebur128->gauge.x = ebur128->w - PAD - ebur128->gauge.w;
     ebur128->gauge.y = ebur128->text.y;
 
-    /* configure graph position and size */
+    /* configure.sh graph position and size */
     ebur128->graph.x = ebur128->text.x + ebur128->text.w + PAD;
     ebur128->graph.y = ebur128->gauge.y;
     ebur128->graph.w = ebur128->gauge.x - ebur128->graph.x - PAD;

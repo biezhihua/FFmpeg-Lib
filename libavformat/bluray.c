@@ -78,7 +78,7 @@ static int check_disc_info(URLContext *h)
     if (disc_info->aacs_detected && !disc_info->aacs_handled) {
         if (!disc_info->libaacs_detected) {
             av_log(h, AV_LOG_ERROR,
-                   "Media stream encrypted with AACS, install and configure libaacs\n");
+                   "Media stream encrypted with AACS, install and configure.sh libaacs\n");
         } else {
             av_log(h, AV_LOG_ERROR, "Your libaacs can't decrypt this media\n");
         }
@@ -90,7 +90,7 @@ static int check_disc_info(URLContext *h)
         /*
         if (!disc_info->libbdplus_detected) {
             av_log(h, AV_LOG_ERROR,
-                   "Media stream encrypted with BD+, install and configure libbdplus");
+                   "Media stream encrypted with BD+, install and configure.sh libbdplus");
         } else {
         */
             av_log(h, AV_LOG_ERROR, "Unable to decrypt BD+ encrypted media\n");
