@@ -19,6 +19,7 @@
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
  */
 
+#include "../config.h"
 #include "../libavutil/thread.h"
 #include "avformat.h"
 #include "rtp.h"
@@ -26,13 +27,14 @@
 #include "url.h"
 #include "version.h"
 
+// 注册复用器
 #define REGISTER_MUXER(X, x)                                            \
     {                                                                   \
         extern AVOutputFormat ff_##x##_muxer;                           \
         if (CONFIG_##X##_MUXER)                                         \
             av_register_output_format(&ff_##x##_muxer);                 \
     }
-
+// 注册解复用器
 #define REGISTER_DEMUXER(X, x)                                          \
     {                                                                   \
         extern AVInputFormat ff_##x##_demuxer;                          \
@@ -40,6 +42,7 @@
             av_register_input_format(&ff_##x##_demuxer);                \
     }
 
+// 注册复用器和解复用器
 #define REGISTER_MUXDEMUX(X, x) REGISTER_MUXER(X, x); REGISTER_DEMUXER(X, x)
 
 static void register_all(void)

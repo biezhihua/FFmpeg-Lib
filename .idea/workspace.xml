@@ -12,74 +12,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e7fc7dd-bb8d-4879-b6bb-ac1ec3254191" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeCCompiler.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeCXXCompiler.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_C.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeSystem.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/configure" afterPath="$PROJECT_DIR$/configure.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FFmpeg.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FFmpeg.dir/build.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FFmpeg.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FFmpeg.dir/flags.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FFmpeg.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FFmpeg.dir/link.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/FFmpeg.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/FFmpeg.cbp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/examples/avio_reading.c" afterPath="$PROJECT_DIR$/doc/examples/avio_reading.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/examples/decode_video.c" afterPath="$PROJECT_DIR$/doc/examples/decode_video.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/examples/demuxing_decoding.c" afterPath="$PROJECT_DIR$/doc/examples/demuxing_decoding.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ffmpeg_opt.c" afterPath="$PROJECT_DIR$/ffmpeg_opt.c" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ffplay.c" afterPath="$PROJECT_DIR$/ffplay.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavcodec/allcodecs.c" afterPath="$PROJECT_DIR$/libavcodec/allcodecs.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavcodec/avcodec.h" afterPath="$PROJECT_DIR$/libavcodec/avcodec.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavcodec/h264dec.c" afterPath="$PROJECT_DIR$/libavcodec/h264dec.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavcodec/jpeg2000dec.c" afterPath="$PROJECT_DIR$/libavcodec/jpeg2000dec.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavcodec/mediacodec_wrapper.c" afterPath="$PROJECT_DIR$/libavcodec/mediacodec_wrapper.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavcodec/mediacodecdec_common.c" afterPath="$PROJECT_DIR$/libavcodec/mediacodecdec_common.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavcodec/parser.c" afterPath="$PROJECT_DIR$/libavcodec/parser.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavcodec/tests/options.c" afterPath="$PROJECT_DIR$/libavcodec/tests/options.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavcodec/utils.c" afterPath="$PROJECT_DIR$/libavcodec/utils.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavdevice/dv1394.c" afterPath="$PROJECT_DIR$/libavdevice/dv1394.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavdevice/lavfi.c" afterPath="$PROJECT_DIR$/libavdevice/lavfi.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavfilter/avfilter.c" afterPath="$PROJECT_DIR$/libavfilter/avfilter.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavfilter/f_ebur128.c" afterPath="$PROJECT_DIR$/libavfilter/f_ebur128.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavcodec/bitstream_filter.c" afterPath="$PROJECT_DIR$/libavcodec/bitstream_filter.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavcodec/bitstream_filters.c" afterPath="$PROJECT_DIR$/libavcodec/bitstream_filters.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavdevice/alldevices.c" afterPath="$PROJECT_DIR$/libavdevice/alldevices.c" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavformat/allformats.c" afterPath="$PROJECT_DIR$/libavformat/allformats.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavformat/bluray.c" afterPath="$PROJECT_DIR$/libavformat/bluray.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavformat/dump.c" afterPath="$PROJECT_DIR$/libavformat/dump.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavformat/file.c" afterPath="$PROJECT_DIR$/libavformat/file.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavformat/flvenc.c" afterPath="$PROJECT_DIR$/libavformat/flvenc.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavformat/librtmp.c" afterPath="$PROJECT_DIR$/libavformat/librtmp.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavformat/options.c" afterPath="$PROJECT_DIR$/libavformat/options.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavformat/protocols.c" afterPath="$PROJECT_DIR$/libavformat/protocols.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavformat/utils.c" afterPath="$PROJECT_DIR$/libavformat/utils.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavresample/options.c" afterPath="$PROJECT_DIR$/libavresample/options.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavutil/atomic.c" afterPath="$PROJECT_DIR$/libavutil/atomic.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavutil/frame.c" afterPath="$PROJECT_DIR$/libavutil/frame.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavutil/opt.c" afterPath="$PROJECT_DIR$/libavutil/opt.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavutil/opt.h" afterPath="$PROJECT_DIR$/libavutil/opt.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavutil/x86/emms.h" afterPath="$PROJECT_DIR$/libavutil/x86/emms.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libswresample/options.c" afterPath="$PROJECT_DIR$/libswresample/options.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libswscale/options.c" afterPath="$PROJECT_DIR$/libswscale/options.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libswscale/swscale.h" afterPath="$PROJECT_DIR$/libswscale/swscale.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libswscale/swscale_internal.h" afterPath="$PROJECT_DIR$/libswscale/swscale_internal.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libswscale/utils.c" afterPath="$PROJECT_DIR$/libswscale/utils.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/aviocat.c" afterPath="$PROJECT_DIR$/tools/aviocat.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/crypto_bench.c" afterPath="$PROJECT_DIR$/tools/crypto_bench.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/target_dec_fuzzer.c" afterPath="$PROJECT_DIR$/tools/target_dec_fuzzer.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/uncoded_frame.c" afterPath="$PROJECT_DIR$/tools/uncoded_frame.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libavformat/format.c" afterPath="$PROJECT_DIR$/libavformat/format.c" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,59 +37,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="utils.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libavcodec/utils.c">
+      <file leaf-file-name="version.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/version.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="2867" column="38" lean-forward="false" selection-start-line="2867" selection-start-column="24" selection-end-line="2867" selection-end-column="43" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="allformats.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libavformat/allformats.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
               <folding>
-                <element signature="e#1867#1886#0" expanded="true" />
-                <element signature="e#3259#3323#0" expanded="true" />
-                <element signature="e#57613#57887#0" expanded="true" />
-                <element signature="e#89076#89179#0" expanded="true" />
-                <element signature="e#131260#131316#0" expanded="true" />
-                <element signature="e#136434#137423#0" expanded="true" />
+                <element signature="e#859#881#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ffmpeg.c" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ffmpeg.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="2260" column="32" lean-forward="true" selection-start-line="2260" selection-start-column="32" selection-end-line="2260" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ffplay.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ffplay.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2548">
-              <caret line="2491" column="11" lean-forward="false" selection-start-line="2491" selection-start-column="11" selection-end-line="2491" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="decode_audio.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/examples/decode_audio.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="frame.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libavutil/frame.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="150" column="19" lean-forward="false" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="19" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -158,8 +62,8 @@
       <file leaf-file-name="avformat.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libavformat/avformat.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="2800" column="5" lean-forward="false" selection-start-line="2800" selection-start-column="5" selection-end-line="2800" selection-end-column="5" />
+            <state relative-caret-position="280">
+              <caret line="1998" column="5" lean-forward="false" selection-start-line="1998" selection-start-column="5" selection-end-line="1998" selection-end-column="5" />
               <folding>
                 <element signature="e#14883#14900#0" expanded="true" />
                 <element signature="e#79749#79882#0" expanded="true" />
@@ -168,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dump.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libavformat/dump.c">
+      <file leaf-file-name="format.c" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/libavformat/format.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2102">
-              <caret line="348" column="19" lean-forward="false" selection-start-line="348" selection-start-column="19" selection-end-line="348" selection-end-column="19" />
+            <state relative-caret-position="-964">
+              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -182,37 +86,40 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>print_confi</find>
-      <find>SLIBNAME</find>
-      <find>SLIBNAME_WITH_VERSION</find>
-      <find>check_header</find>
-      <find>LIBVERSION</find>
-      <find>print_config</find>
-      <find>codec_type</find>
-      <find>sample_fmt</find>
-      <find>AVMEDIA_TYPE_SUBTITLE</find>
-      <find>AV_PIX_FMT_PAL8</find>
-      <find>profile</find>
-      <find>ff_h264_decoder</find>
-      <find>attached_pic</find>
-      <find>motion_val</find>
-      <find>first_iformat</find>
-      <find>last_iformat</find>
-      <find>REGISTER_PARSER</find>
-      <find>is_dos_path</find>
-      <find>ffio_fdopen</find>
-      <find>ff_libx264_encoder</find>
-      <find>X264_init</find>
-      <find>X264Context</find>
-      <find>avcodec_close</find>
-      <find>estimate_timings</find>
-      <find>dts</find>
-      <find>estimate_timings_from_bit_rate</find>
       <find>ff_file_protocol</find>
       <find>ff_network_init</find>
       <find>avformat_alloc_context</find>
       <find>c</find>
+      <find>0</find>
+      <find>real_options</find>
+      <find>options</find>
+      <find>numstr</find>
+      <find>SDL_Init</find>
+      <find>read_thread</find>
+      <find>cmdutils_common_opts</find>
+      <find>refresh_thread</find>
+      <find>;</find>
+      <find>FF_REFRESH_EVENT</find>
+      <find>packet_queue_start</find>
+      <find>avcodec_decode_audio4</find>
+      <find>decoder_decode_frame</find>
+      <find>stream_loo</find>
+      <find>main</find>
+      <find>refresh_loop_wait_event</find>
+      <find>opt_input_file</find>
+      <find>func_arg</find>
+      <find>video_refresh</find>
+      <find>video_image_display</find>
+      <find>video_display</find>
+      <find>sub_convert_ctx</find>
+      <find>avctx</find>
+      <find>AVBSFContext</find>
+      <find>BSFCompatContext</find>
+      <find>ff_h264_mp4toannexb_bsf</find>
     </findStrings>
+    <replaceStrings>
+      <replace>1</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
@@ -247,7 +154,6 @@
         <option value="$PROJECT_DIR$/libswscale/swscale_internal.h" />
         <option value="$PROJECT_DIR$/libswscale/utils.c" />
         <option value="$PROJECT_DIR$/libswscale/swscale.h" />
-        <option value="$PROJECT_DIR$/libavformat/allformats.c" />
         <option value="$PROJECT_DIR$/libavformat/avformat.h" />
         <option value="$PROJECT_DIR$/libavcodec/vda_h264_dec.c" />
         <option value="$PROJECT_DIR$/libavcodec/h264dec.c" />
@@ -258,13 +164,21 @@
         <option value="$PROJECT_DIR$/libavformat/options.c" />
         <option value="$PROJECT_DIR$/libavcodec/parser.c" />
         <option value="$PROJECT_DIR$/libavutil/frame.c" />
-        <option value="$PROJECT_DIR$/config.h" />
         <option value="$PROJECT_DIR$/libavcodec/utils.c" />
-        <option value="$PROJECT_DIR$/libavformat/protocols.c" />
         <option value="$PROJECT_DIR$/libavformat/file.c" />
         <option value="$PROJECT_DIR$/libavformat/flvenc.c" />
         <option value="$PROJECT_DIR$/libavformat/utils.c" />
         <option value="$PROJECT_DIR$/libavformat/dump.c" />
+        <option value="$PROJECT_DIR$/config.h" />
+        <option value="$PROJECT_DIR$/libavformat/protocols.c" />
+        <option value="$PROJECT_DIR$/cmdutils.c" />
+        <option value="$PROJECT_DIR$/libavdevice/alldevices.c" />
+        <option value="$PROJECT_DIR$/ffmpeg_opt.c" />
+        <option value="$PROJECT_DIR$/ffplay.c" />
+        <option value="$PROJECT_DIR$/libavcodec/bitstream_filters.c" />
+        <option value="$PROJECT_DIR$/libavcodec/bitstream_filter.c" />
+        <option value="$PROJECT_DIR$/libavformat/allformats.c" />
+        <option value="$PROJECT_DIR$/libavformat/format.c" />
       </list>
     </option>
   </component>
@@ -280,7 +194,7 @@
     <option name="height" value="900" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -293,12 +207,27 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FFmpeg" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FFmpeg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="avcodec_send_packet&#9;null&#9;null&#10;av_dump_format&#9;null&#9;null&#10;av_frame_alloc&#9;null&#9;null&#10;stream_com&#9;null&#9;null&#10;avcodec_parameters_to_context&#9;null&#9;null&#10;avcodec_alloc_context3&#9;null&#9;null&#10;avformat_find_stream_info&#9;null&#9;null&#10;AVPROBE_SCORE_MAX&#9;null&#9;null&#10;avformat_open_input&#9;null&#9;null&#10;avformat_alloc_context&#9;null&#9;null&#10;avformat_network_init&#9;null&#9;null&#10;ff_flv_muxer&#9;null&#9;null&#10;avformat_write_header&#9;null&#9;null&#10;ff_matroska_demuxer&#9;null&#9;null&#10;avformat_alloc_output_context2&#9;null&#9;null&#10;file_close&#9;null&#9;null&#10;file.c&#9;FILE&#9;file:///Users/biezhihua/studyspace/FFmpeg-Lib/FFmpeg/libavformat/file.c&#10;avformat_close_input&#9;null&#9;null&#10;avcodec_decode_video2&#9;null&#9;null&#10;flv_read_packet&#9;null&#9;null&#10;av_read_frame&#9;null&#9;null&#10;ff_pipe_protocol&#9;null&#9;null&#10;URLProtocol&#9;null&#9;null&#10;avcodec_close&#9;null&#9;null&#10;libx264&#9;FILE&#9;file:///Users/biezhihua/studyspace/FFmpeg-Lib/FFmpeg/libavcodec/libx264.c&#10;pix_fmts_8bit&#9;null&#9;null&#10;avcodec_open2&#9;null&#9;null&#10;avcodec_find_encoder&#9;null&#9;null&#10;avio_open2&#9;null&#9;null&#10;ffio_fdopen&#9;null&#9;null&#10;is_dos_path&#9;null&#9;null&#10;ff_file_protocol&#9;null&#9;null&#10;avformat_new_stream&#9;null&#9;null&#10;avio_alloc_context&#9;null&#9;null&#10;ff_free_stream&#9;null&#9;null&#10;av_malloc&#9;null&#9;null&#10;avcodec_register&#9;null&#9;null&#10;av_register_codec_parser&#9;null&#9;null&#10;av_register_input_format&#9;null&#9;null&#10;ff_aac_demuxer&#9;null&#9;null&#10;av_register_all&#9;null&#9;null&#10;AVPacket&#9;null&#9;null&#10;AVFrame&#9;null&#9;null&#10;AVStream&#9;null&#9;null&#10;ff_jpeg2000_decoder&#9;null&#9;null&#10;ff_h264_decoder&#9;null&#9;null&#10;AVCodec&#9;null&#9;null&#10;AVCodecContext&#9;null&#9;null&#10;AVIOContext&#9;null&#9;null&#10;AVFormatContext&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="av_register_input_format&#9;null&#9;null&#10;av_register&#9;null&#9;null&#10;adts&#9;FILE&#9;file:///Users/biezhihua/studyspace/FFmpeg-Lib/FFmpeg/tests/ref/fate/adtstoasc_ticket3715&#10;av_bitstream_filter_init&#9;null&#9;null&#10;av_bitstream_filter_filter&#9;null&#9;null&#10;av_rescale_q_rnd&#9;null&#9;null&#10;stream_component_open&#9;null&#9;null&#10;cmdutils_common_opts&#9;FILE&#9;file:///Users/biezhihua/studyspace/FFmpeg-Lib/FFmpeg/cmdutils_common_opts.h&#10;ffpl&#9;FILE&#9;file:///Users/biezhihua/studyspace/FFmpeg-Lib/FFmpeg/ffplay.c&#10;AVPacket&#9;FILE&#9;file:///Users/biezhihua/studyspace/FFmpeg-Lib/FFmpeg/libavcodec/avpacket.c&#10;AVFrame&#9;null&#9;null&#10;AVFormatContext&#9;null&#9;null&#10;ff_file_protocol&#9;null&#9;null&#10;ff_http_protocol&#9;null&#9;null&#10;Pro&#9;FILE&#9;file:///Users/biezhihua/studyspace/FFmpeg-Lib/FFmpeg/libavformat/protocols.c&#10;config&#9;FILE&#9;file:///Users/biezhihua/studyspace/FFmpeg-Lib/FFmpeg/config.h&#10;URLContext&#9;null&#9;null&#10;AVIOContext&#9;null&#9;null&#10;avcodec_send_packet&#9;null&#9;null&#10;av_dump_format&#9;null&#9;null&#10;av_frame_alloc&#9;null&#9;null&#10;stream_com&#9;null&#9;null&#10;avcodec_parameters_to_context&#9;null&#9;null&#10;avcodec_alloc_context3&#9;null&#9;null&#10;avformat_find_stream_info&#9;null&#9;null&#10;AVPROBE_SCORE_MAX&#9;null&#9;null&#10;avformat_open_input&#9;null&#9;null&#10;avformat_alloc_context&#9;null&#9;null&#10;avformat_network_init&#9;null&#9;null&#10;ff_flv_muxer&#9;null&#9;null&#10;avformat_write_header&#9;null&#9;null&#10;ff_matroska_demuxer&#9;null&#9;null&#10;avformat_alloc_output_context2&#9;null&#9;null&#10;file_close&#9;null&#9;null&#10;file.c&#9;FILE&#9;file:///Users/biezhihua/studyspace/FFmpeg-Lib/FFmpeg/libavformat/file.c&#10;avformat_close_input&#9;null&#9;null&#10;avcodec_decode_video2&#9;null&#9;null&#10;flv_read_packet&#9;null&#9;null&#10;av_read_frame&#9;null&#9;null&#10;ff_pipe_protocol&#9;null&#9;null&#10;URLProtocol&#9;null&#9;null&#10;avcodec_close&#9;null&#9;null&#10;libx264&#9;FILE&#9;file:///Users/biezhihua/studyspace/FFmpeg-Lib/FFmpeg/libavcodec/libx264.c&#10;pix_fmts_8bit&#9;null&#9;null&#10;avcodec_open2&#9;null&#9;null&#10;avcodec_find_encoder&#9;null&#9;null&#10;avio_open2&#9;null&#9;null&#10;ffio_fdopen&#9;null&#9;null&#10;is_dos_path&#9;null&#9;null&#10;avformat_new_stream&#9;null&#9;null" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -601,34 +530,45 @@
       <workItem from="1492437150615" duration="5804000" />
       <workItem from="1492527356649" duration="154000" />
       <workItem from="1492613706595" duration="2399000" />
-      <workItem from="1492698774197" duration="2190000" />
+      <workItem from="1492698774197" duration="2400000" />
+      <workItem from="1492926845879" duration="11019000" />
+      <workItem from="1493049001265" duration="523000" />
+      <workItem from="1493217848033" duration="266000" />
+      <workItem from="1493742367000" duration="623000" />
+      <workItem from="1493824000252" duration="61000" />
+      <workItem from="1493824762028" duration="1063000" />
+      <workItem from="1493825880800" duration="253000" />
+      <workItem from="1493826154693" duration="597000" />
+      <workItem from="1493912124493" duration="1004000" />
+      <workItem from="1493994681416" duration="433000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64545000" />
+    <option name="totallyTimeSpent" value="80597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23891273" sideWeight="0.4950249" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24248926" sideWeight="0.4950249" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22174536" sideWeight="0.50497514" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18168813" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -643,9 +583,9 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23891273" sideWeight="0.4950249" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24248926" sideWeight="0.4950249" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -676,262 +616,17 @@
           <line>112</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/cmdutils.c</url>
+          <line>1083</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/libavutil/frame.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="196" column="6" lean-forward="true" selection-start-line="196" selection-start-column="6" selection-end-line="196" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/aacdec.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="104" column="14" lean-forward="false" selection-start-line="104" selection-start-column="14" selection-end-line="104" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavutil/thread.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2964">
-          <caret line="156" column="18" lean-forward="false" selection-start-line="156" selection-start-column="18" selection-end-line="156" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/allformats.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="8" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavcodec/allcodecs.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavutil/mem.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3344">
-          <caret line="176" column="41" lean-forward="false" selection-start-line="176" selection-start-column="32" selection-end-line="176" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/sys/_types/_size_t.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configure.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63061">
-          <caret line="3319" column="10" lean-forward="false" selection-start-line="3319" selection-start-column="10" selection-end-line="3319" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/options.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2394">
-          <caret line="126" column="8" lean-forward="false" selection-start-line="126" selection-start-column="8" selection-end-line="126" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavcodec/parser.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavutil/mem.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4199">
-          <caret line="221" column="6" lean-forward="false" selection-start-line="221" selection-start-column="6" selection-end-line="221" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/include/libavutil/frame.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11115">
-          <caret line="585" column="9" lean-forward="false" selection-start-line="585" selection-start-column="9" selection-end-line="585" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/string.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="87" column="15" lean-forward="false" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/os_support.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="69" column="18" lean-forward="false" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/avio.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="682" column="4" lean-forward="false" selection-start-line="682" selection-start-column="4" selection-end-line="682" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/avio_internal.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="152" column="4" lean-forward="false" selection-start-line="152" selection-start-column="4" selection-end-line="152" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/protocol_list.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/avio.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5852">
-          <caret line="308" column="4" lean-forward="false" selection-start-line="308" selection-start-column="4" selection-end-line="308" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/aviobuf.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20501">
-          <caret line="1079" column="25" lean-forward="false" selection-start-line="1079" selection-start-column="25" selection-end-line="1079" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/include/libavformat/avio.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12255">
-          <caret line="645" column="42" lean-forward="false" selection-start-line="645" selection-start-column="42" selection-end-line="645" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavutil/imgutils.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4256">
-          <caret line="224" column="4" lean-forward="false" selection-start-line="224" selection-start-column="4" selection-end-line="224" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavutil/imgutils.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5415">
-          <caret line="285" column="4" lean-forward="false" selection-start-line="285" selection-start-column="4" selection-end-line="285" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavcodec/libx264.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1786">
-          <caret line="94" column="2" lean-forward="false" selection-start-line="94" selection-start-column="2" selection-end-line="94" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/url.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavutil/mathematics.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="128" column="8" lean-forward="false" selection-start-line="128" selection-start-column="8" selection-end-line="128" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavcodec/avpacket.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/flvdec.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="927" column="11" lean-forward="false" selection-start-line="927" selection-start-column="11" selection-end-line="927" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/protocols.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/unistd.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8265">
-          <caret line="435" column="5" lean-forward="false" selection-start-line="435" selection-start-column="5" selection-end-line="435" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/file.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2223">
-          <caret line="117" column="11" lean-forward="false" selection-start-line="117" selection-start-column="11" selection-end-line="117" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/matroskadec.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74765">
-          <caret line="3935" column="14" lean-forward="false" selection-start-line="3935" selection-start-column="14" selection-end-line="3935" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavutil/avstring.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7524">
-          <caret line="396" column="4" lean-forward="false" selection-start-line="396" selection-start-column="4" selection-end-line="396" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/mux.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9025">
-          <caret line="475" column="37" lean-forward="false" selection-start-line="475" selection-start-column="37" selection-end-line="475" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/flvenc.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3279">
-          <caret line="748" column="18" lean-forward="false" selection-start-line="748" selection-start-column="18" selection-end-line="748" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="565" column="8" lean-forward="false" selection-start-line="565" selection-start-column="8" selection-end-line="565" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/libavformat/network.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
@@ -939,38 +634,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ffmpeg_opt.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="1913" column="43" lean-forward="true" selection-start-line="1913" selection-start-column="43" selection-end-line="1913" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/format.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="196" column="30" lean-forward="false" selection-start-line="196" selection-start-column="30" selection-end-line="196" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/libavformat/utils.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4549">
           <caret line="3893" column="43" lean-forward="true" selection-start-line="3893" selection-start-column="43" selection-end-line="3893" selection-end-column="43" />
-          <folding>
-            <element signature="e#868#887#0" expanded="false" />
-            <element signature="e#17120#17139#0" expanded="false" />
-            <element signature="e#17862#17879#0" expanded="false" />
-            <element signature="e#77297#77456#0" expanded="false" />
-            <element signature="e#98474#98814#0" expanded="false" />
-            <element signature="e#190153#190212#0" expanded="false" />
-            <element signature="e#190938#191150#0" expanded="false" />
-            <element signature="e#194294#194347#0" expanded="false" />
-            <element signature="e#200547#200675#0" expanded="false" />
-            <element signature="e#211528#211566#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -978,15 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="2216" column="4" lean-forward="false" selection-start-line="2216" selection-start-column="4" selection-end-line="2216" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavcodec/avcodec.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="4255" column="25" lean-forward="true" selection-start-line="4255" selection-start-column="25" selection-end-line="4255" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -994,15 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="154" column="27" lean-forward="true" selection-start-line="154" selection-start-column="27" selection-end-line="154" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/include/libavcodec/avcodec.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="4179" column="26" lean-forward="true" selection-start-line="4179" selection-start-column="16" selection-end-line="4179" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1015,16 +664,341 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/libavutil/frame.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
+        <state relative-caret-position="2850">
           <caret line="150" column="19" lean-forward="false" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavformat/dump.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6612">
+          <caret line="348" column="19" lean-forward="false" selection-start-line="348" selection-start-column="19" selection-end-line="348" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/examples/decode_audio.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="56" lean-forward="false" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavcodec/utils.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54473">
+          <caret line="2867" column="38" lean-forward="false" selection-start-line="2867" selection-start-column="24" selection-end-line="2867" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavformat/avio.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="327" column="7" lean-forward="true" selection-start-line="327" selection-start-column="7" selection-end-line="327" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavformat/protocols.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavformat/url.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="80" column="33" lean-forward="true" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/unistd.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="470" column="9" lean-forward="false" selection-start-line="470" selection-start-column="9" selection-end-line="470" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavformat/file.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavutil/dict.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="31" column="15" lean-forward="false" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavutil/dict.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="83" column="2" lean-forward="false" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffmpeg.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="2172" column="18" lean-forward="true" selection-start-line="2172" selection-start-column="18" selection-end-line="2172" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavutil/avutil.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="271" column="5" lean-forward="false" selection-start-line="271" selection-start-column="5" selection-end-line="271" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavutil/frame.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-543">
+          <caret line="260" column="19" lean-forward="true" selection-start-line="260" selection-start-column="19" selection-end-line="260" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavcodec/avpacket.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavutil/log.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="358" column="8" lean-forward="false" selection-start-line="358" selection-start-column="8" selection-end-line="358" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3515">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RELEASE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffprobe.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="3449" column="25" lean-forward="false" selection-start-line="3449" selection-start-column="25" selection-end-line="3449" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmdutils_common_opts.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavutil/mem.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="236" column="6" lean-forward="false" selection-start-line="236" selection-start-column="6" selection-end-line="236" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffserver_config.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffserver_config.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavutil/log.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7505">
+          <caret line="395" column="5" lean-forward="false" selection-start-line="395" selection-start-column="5" selection-end-line="395" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavdevice/alldevices.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="77" column="14" lean-forward="false" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmdutils.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3591">
+          <caret line="189" column="17" lean-forward="false" selection-start-line="189" selection-start-column="17" selection-end-line="189" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffmpeg_opt.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64714">
+          <caret line="3406" column="72" lean-forward="false" selection-start-line="3406" selection-start-column="72" selection-end-line="3406" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmdutils.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7239">
+          <caret line="381" column="5" lean-forward="false" selection-start-line="381" selection-start-column="5" selection-end-line="381" selection-end-column="5" />
+          <folding>
+            <element signature="e#3279#3467#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavutil/mathematics.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="57" column="8" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffplay.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="881" column="30" lean-forward="true" selection-start-line="881" selection-start-column="30" selection-end-line="881" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavcodec/bsf.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3325">
+          <caret line="175" column="4" lean-forward="false" selection-start-line="175" selection-start-column="4" selection-end-line="175" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/libavcodec/avcodec.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111473">
+          <caret line="5867" column="4" lean-forward="false" selection-start-line="5867" selection-start-column="4" selection-end-line="5867" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavcodec/version.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4180">
+          <caret line="220" column="8" lean-forward="false" selection-start-line="220" selection-start-column="8" selection-end-line="220" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavcodec/bitstream_filter.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="14" lean-forward="false" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+          <folding>
+            <element signature="e#828#847#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavcodec/avcodec.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112119">
+          <caret line="5901" column="2" lean-forward="false" selection-start-line="5901" selection-start-column="2" selection-end-line="5901" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavcodec/vp9_superframe_bsf.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3762">
+          <caret line="198" column="24" lean-forward="false" selection-start-line="198" selection-start-column="24" selection-end-line="198" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavcodec/aac_adtstoasc_bsf.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2964">
+          <caret line="156" column="24" lean-forward="false" selection-start-line="156" selection-start-column="24" selection-end-line="156" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavcodec/h264_mp4toannexb_bsf.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5472">
+          <caret line="288" column="30" lean-forward="false" selection-start-line="288" selection-start-column="30" selection-end-line="288" selection-end-column="30" />
+          <folding>
+            <element signature="e#875#894#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ref/fate/adtstoasc_ticket3715">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavcodec/bitstream_filters.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="42" selection-start-column="46" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="e#764#786#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavutil/internal.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="83" column="12" lean-forward="false" selection-start-line="83" selection-start-column="12" selection-end-line="83" selection-end-column="12" />
+          <folding>
+            <element signature="e#1750#2425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/version.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libavformat/allformats.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+          <folding>
+            <element signature="e#859#881#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/libavformat/avformat.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="2800" column="5" lean-forward="false" selection-start-line="2800" selection-start-column="5" selection-end-line="2800" selection-end-column="5" />
+        <state relative-caret-position="280">
+          <caret line="1998" column="5" lean-forward="false" selection-start-line="1998" selection-start-column="5" selection-end-line="1998" selection-end-column="5" />
           <folding>
             <element signature="e#14883#14900#0" expanded="true" />
             <element signature="e#79749#79882#0" expanded="true" />
@@ -1032,49 +1006,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libavformat/dump.c">
+    <entry file="file://$PROJECT_DIR$/libavformat/format.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2102">
-          <caret line="348" column="19" lean-forward="false" selection-start-line="348" selection-start-column="19" selection-end-line="348" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ffplay.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2548">
-          <caret line="2491" column="11" lean-forward="false" selection-start-line="2491" selection-start-column="11" selection-end-line="2491" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/examples/decode_audio.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libavcodec/utils.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="2867" column="38" lean-forward="false" selection-start-line="2867" selection-start-column="24" selection-end-line="2867" selection-end-column="43" />
-          <folding>
-            <element signature="e#1867#1886#0" expanded="true" />
-            <element signature="e#3259#3323#0" expanded="true" />
-            <element signature="e#57613#57887#0" expanded="true" />
-            <element signature="e#89076#89179#0" expanded="true" />
-            <element signature="e#131260#131316#0" expanded="true" />
-            <element signature="e#136434#137423#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ffmpeg.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="2260" column="32" lean-forward="true" selection-start-line="2260" selection-start-column="32" selection-end-line="2260" selection-end-column="32" />
+        <state relative-caret-position="-964">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding />
         </state>
       </provider>

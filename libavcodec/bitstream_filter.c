@@ -21,7 +21,7 @@
 #include <string.h>
 
 #include "avcodec.h"
-#include "libavutil/internal.h"
+#include "../libavutil/internal.h"
 #include "libavutil/mem.h"
 #include "libavutil/opt.h"
 

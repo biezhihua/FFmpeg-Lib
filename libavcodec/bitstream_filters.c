@@ -16,7 +16,7 @@
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
  */
 
-#include "config.h"
+#include "../config.h"
 
 #include "libavutil/common.h"
 #include "libavutil/log.h"
@@ -42,7 +42,7 @@ extern const AVBitStreamFilter ff_remove_extradata_bsf;
 extern const AVBitStreamFilter ff_text2movsub_bsf;
 extern const AVBitStreamFilter ff_vp9_superframe_bsf;
 
-#include "libavcodec/bsf_list.c"
+#include "../libavcodec/bsf_list.c"
 
 const AVBitStreamFilter *av_bsf_next(void **opaque)
 {
